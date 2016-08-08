@@ -1,0 +1,35 @@
+_repo: Pictures-of-Sweden_12313
+_version: 0.0.1
+alternative_title: I Sverrig. English
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12313'
+  lccn: '53052516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Sweden'
+- !lcsh 'Sweden -- Description and travel'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Introduction -- Trollhätta -- The Bird Phoenix -- Kinnakulla -- Grandmother
+  -- The Prison-cells -- Beggar-boys -- Vadstene -- The Puppet-showman -- The "Skjärgaards"
+  -- Stockholm -- Diurgaerden -- A Story -- Upsala -- Sala -- The Mute Book -- The
+  Zäther Dale -- The Midsummer Festival in Lacksand -- Faith and Knowledge -- In the
+  Forest -- Fahlun -- What the Straws Said -- The Poet's Symbol -- The Dal-elv --
+  Danemora -- The Swine -- Poetry's California.
+title: Pictures of Sweden
+url: http://www.gutenberg.org/ebooks/12313
