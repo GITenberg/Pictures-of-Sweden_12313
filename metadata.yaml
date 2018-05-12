@@ -1,6 +1,9 @@
 _repo: Pictures-of-Sweden_12313
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: I Sverrig. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andersen, H. C. (Hans Christian)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12313#Pictures-of-Sweden
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
